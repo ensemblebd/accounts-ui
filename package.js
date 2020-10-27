@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-  api.versionsFrom('1.3');
+  api.versionsFrom('1.11.1');
   api.use('ecmascript');
   api.use('accounts-base');
   api.use('check');
